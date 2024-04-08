@@ -8,7 +8,7 @@ Bu proje, standart giriş işleviyle bir dosyadan satır okumayı sağlar. get_n
 
 <!-- Proje Logosu veya Görseli -->
 <p align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="Proje Logo">
+  <a target="blank"><img src="https://i.hizliresim.com/pjpsbji.png" height="150" width="150" /></a>
 </p>
 
 ## Projenin Amacı
