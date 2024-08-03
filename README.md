@@ -1,5 +1,5 @@
 <!-- Proje Başlığı -->
-<h1 align="center">42 - Get_next_line</h1>
+<h1 align="center">42 - Get_next_line 📄</h1>
 
 <!-- Proje Açıklaması -->
 <p align="center">
@@ -11,18 +11,18 @@ Bu proje, standart giriş işleviyle bir dosyadan satır okumayı sağlar. get_n
   <a target="blank"><img src="https://i.hizliresim.com/pjpsbji.png" height="150" width="150" /></a>
 </p>
 
-## Projenin Amacı
+## Projenin Amacı 🎯
 
 Bu proje, dosya işleme, bellek yönetimi ve iş parçacığı programlaması konularında deneyim kazanmamıza yardımcı olur. Ayrıca, bu projede statik bir bellek alanının nasıl etkin bir şekilde kullanılacağını, dosyalarla etkileşimde bulunmayı ve giriş/çıkış işlemlerini yönetmeyi öğreniriz.
 
-## Kullanım Senaryoları
+## Kullanım Senaryoları 📋
 
 get_next_line işlevi, bir dosyadan satır okuma işlemi yapar ve bu işlem bir veya daha fazla kez çağrılabilir. Kullanım senaryoları şunları içerebilir:
 
 - Bir dosyadan satır satır okuma: `get_next_line(fd, &line);`
 - Birden çok dosyadan aynı anda okuma yapma: `get_next_line(fd1, &line1); get_next_line(fd2, &line2);`
 
-## Proje İçeriği
+## Proje İçeriği 📂
 
 Proje, get_next_line işlevinin yanı sıra yardımcı işlevleri ve yapılarını içerir. Bu içerik şunları içerebilir:
 
