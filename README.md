@@ -8,7 +8,7 @@ This project provides the ability to read a line from a file using the standard 
 
 <!-- Project Logo or Image -->
 <p align="center">
-  <a target="blank"><img src="https://i.hizliresim.com/pjpsbji.png" height="150" width="150" /></a>
+  <a target="blank"><img src="https://github.com/deryaxacar/mg/blob/main/p-logo/get_next_line.png" height="150" width="150" /></a>
 </p>
 
 ## Project Objective 🎯
