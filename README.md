@@ -1,34 +1,38 @@
-<!-- Proje Başlığı -->
+<!-- Project Title -->
 <h1 align="center">42 - Get_next_line 📄</h1>
 
-<!-- Proje Açıklaması -->
+<!-- Project Description -->
 <p align="center">
-Bu proje, standart giriş işleviyle bir dosyadan satır okumayı sağlar. get_next_line işlevi, bir dosyadan karakter okumak için kullanılırken, aynı zamanda birden çok dosyayı eş zamanlı olarak işleyebilir.
+This project provides the ability to read a line from a file using the standard input function. The get_next_line function is used to read characters from a file, and it can also handle multiple files simultaneously.
 </p>
 
-<!-- Proje Logosu veya Görseli -->
+<!-- Project Logo or Image -->
 <p align="center">
   <a target="blank"><img src="https://i.hizliresim.com/pjpsbji.png" height="150" width="150" /></a>
 </p>
 
-## Projenin Amacı 🎯
+## Project Objective 🎯
 
-Bu proje, dosya işleme, bellek yönetimi ve iş parçacığı programlaması konularında deneyim kazanmamıza yardımcı olur. Ayrıca, bu projede statik bir bellek alanının nasıl etkin bir şekilde kullanılacağını, dosyalarla etkileşimde bulunmayı ve giriş/çıkış işlemlerini yönetmeyi öğreniriz.
+This project helps us gain experience in file handling, memory management, and thread programming. Additionally, we learn how to efficiently use static memory space, interact with files, and manage input/output operations in this project.
 
-## Kullanım Senaryoları 📋
+## Use Cases 📋
 
-get_next_line işlevi, bir dosyadan satır okuma işlemi yapar ve bu işlem bir veya daha fazla kez çağrılabilir. Kullanım senaryoları şunları içerebilir:
+The get_next_line function reads a line from a file and can be called multiple times. Use cases may include:
 
-- Bir dosyadan satır satır okuma: `get_next_line(fd, &line);`
-- Birden çok dosyadan aynı anda okuma yapma: `get_next_line(fd1, &line1); get_next_line(fd2, &line2);`
+- Reading a file line by line: `get_next_line(fd, &line);`
+- Reading from multiple files simultaneously: `get_next_line(fd1, &line1); get_next_line(fd2, &line2);`
 
-## Proje İçeriği 📂
+## Project Contents 📂
 
-Proje, get_next_line işlevinin yanı sıra yardımcı işlevleri ve yapılarını içerir. Bu içerik şunları içerebilir:
+The project includes the get_next_line function as well as helper functions and structures. The content includes:
 
-- **get_next_line.c**: Ana get_next_line işlevinin tanımlarını içerir.
-- **get_next_line.h**: Proje başlık dosyası, prototipleri ve yapı tanımlarını içerir.
-- **get_next_line_bonus.c**: Bonus kısmı için ekstra işlevlerin tanımlarını içerir.
-- **get_next_line_bonus.h**: Bonus kısmı için başlık dosyası, prototipleri ve yapı tanımlarını içerir.
-- **get_next_line_utils.c**: Yardımcı işlevlerin tanımlarını içerir.
-- **get_next_line_utils_bonus.c**: Bonus kısmı için yardımcı işlevlerin tanımlarını içerir
+- **get_next_line.c**: Contains the main get_next_line function definitions.
+- **get_next_line.h**: The project header file, containing prototypes and structure definitions.
+- **get_next_line_bonus.c**: Contains extra function definitions for the bonus part.
+- **get_next_line_bonus.h**: The header file for the bonus part, containing prototypes and structure definitions.
+- **get_next_line_utils.c**: Contains helper function definitions.
+- **get_next_line_utils_bonus.c**: Contains helper function definitions for the bonus part.
+
+---
+
+This README was prepared by Derya ACAR.
