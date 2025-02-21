@@ -35,4 +35,5 @@ The project includes the get_next_line function as well as helper functions and 
 
 ---
 
-This README was prepared by Derya ACAR.
+<p align="center">© 2025 This project was created by Derya ACAR.</p>
+
