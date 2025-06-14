@@ -8,7 +8,7 @@ This project provides the ability to read a line from a file using the standard 
 
 <!-- Project Logo or Image -->
 <p align="center">
-  <a target="blank"><img src="https://camo.githubusercontent.com/299ea843af9a9848fd80e66be6cb3c563449e16da2a22637b4f6d65bfea3ebda/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f336369336d67692e706e67" height="150" width="150" /></a>
+  <a target="blank"><img src="https://github.com/deryaxacar/42-Get_next_line/blob/main/get_next_line.png" height="150" width="150" /></a>
 </p>
 
 ## Project Objective 🎯
